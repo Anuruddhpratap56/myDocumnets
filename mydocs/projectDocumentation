@@ -1,0 +1,16 @@
+jwt authentication code --> https://www.javacodegeeks.com/2024/12/managing-jwt-refresh-tokens-in-spring-security-a-complete-guide.html
+and https://medium.com/@villysiu/login-and-signup-with-spring-security-and-json-web-token-jwt-db0ec14e192b
+
+for xml bind for new java versions add xml bind and runtime dependencies
+
+<dependency>
+    <groupId>javax.xml.bind</groupId>
+    <artifactId>jaxb-api</artifactId>
+    <version>2.3.1</version>
+</dependency>
+<!-- JAXB runtime for Java 11+ -->
+<dependency>
+    <groupId>org.glassfish.jaxb</groupId>
+    <artifactId>jaxb-runtime</artifactId>
+    <version>2.3.1</version>
+</dependency>

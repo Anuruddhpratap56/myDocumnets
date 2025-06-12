@@ -1,0 +1,13 @@
+Custom anotations
+Authentication --> done
+MicroServices
+Low Level and high level designing
+kafka
+redis --> caching done
+zuul
+optimization techniques
+jpa queries
+preauthorize -->done
+eureka
+session management
+cache
